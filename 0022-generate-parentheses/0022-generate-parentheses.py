@@ -2,16 +2,16 @@ class Solution(object):
     def generateParenthesis(self, n):
         res = []
 
-        def backtrack(cur, open_used, close_used):
-            if open_used == n and close_used == n:
+        def backtrack(cur, openN, closeN):
+            if openN == n and closeN == n:
                 res.append(cur)
                 return
 
-            if open_used < n:
-                backtrack(cur + "(", open_used + 1, close_used)
+            if openN < n:
+                backtrack(cur + "(", openN + 1, closeN)
 
-            if close_used < open_used:
-                backtrack(cur + ")", open_used, close_used + 1)
+            if closeN < openN:
+                backtrack(cur + ")", openN, closeN + 1)
 
         backtrack("", 0, 0)
         return res
