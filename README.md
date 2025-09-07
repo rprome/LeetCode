@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/rprome/LeetCode/tree/master/0135-candy) |
+| [0221-maximal-square](https://github.com/rprome/LeetCode/tree/master/0221-maximal-square) |
 ## Greedy
 |  |
 | ------- |
@@ -49,8 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rprome/LeetCode/tree/master/0022-generate-parentheses) |
+| [0221-maximal-square](https://github.com/rprome/LeetCode/tree/master/0221-maximal-square) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rprome/LeetCode/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/rprome/LeetCode/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
