@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/rprome/LeetCode/tree/master/0039-combination-sum) |
 | [0135-candy](https://github.com/rprome/LeetCode/tree/master/0135-candy) |
 | [0221-maximal-square](https://github.com/rprome/LeetCode/tree/master/0221-maximal-square) |
 ## Greedy
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rprome/LeetCode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/rprome/LeetCode/tree/master/0039-combination-sum) |
 ## Matrix
 |  |
 | ------- |
