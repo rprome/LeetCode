@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rprome/LeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/rprome/LeetCode/tree/master/0039-combination-sum) |
 | [0135-candy](https://github.com/rprome/LeetCode/tree/master/0135-candy) |
 | [0221-maximal-square](https://github.com/rprome/LeetCode/tree/master/0221-maximal-square) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rprome/LeetCode/tree/master/0027-remove-element) |
 | [0908-middle-of-the-linked-list](https://github.com/rprome/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
