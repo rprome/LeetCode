@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/rprome/LeetCode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/rprome/LeetCode/tree/master/0039-combination-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rprome/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/rprome/LeetCode/tree/master/0135-candy) |
 | [0221-maximal-square](https://github.com/rprome/LeetCode/tree/master/0221-maximal-square) |
 ## Greedy
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rprome/LeetCode/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rprome/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/rprome/LeetCode/tree/master/0221-maximal-square) |
 ## Backtracking
 |  |
