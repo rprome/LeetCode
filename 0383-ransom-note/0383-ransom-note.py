@@ -1,8 +1,12 @@
+from collections import Counter
+
 class Solution(object):
     def canConstruct(self, ransomNote, magazine):
-        st1, st2 = Counter(ransomNote), Counter(magazine)
-        if st1 & st2 == st1:
-            return True
-        return False
+        ransom_count = Counter(ransomNote)
+        magazine_count = Counter(magazine)   
 
+        for char, freq in ransom_count.items():
+            if magazine_count[char] < freq:   
+                return False
+        return True
         
