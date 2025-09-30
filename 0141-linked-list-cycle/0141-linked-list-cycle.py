@@ -6,13 +6,12 @@
 
 class Solution(object):
     def hasCycle(self, head):
-        dict = {}         
-        curr = head
+         dict = {}  
+         curr = head 
 
-        while curr:
-            if curr in dict:   
+         while curr:
+            if curr in dict:
                 return True
-            dict[curr] = True  
+            dict[curr] = True
             curr = curr.next
-
-        return False      
+         return False 
