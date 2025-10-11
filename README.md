@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/rprome/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/rprome/LeetCode/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/rprome/LeetCode/tree/master/0221-maximal-square) |
+| [0485-max-consecutive-ones](https://github.com/rprome/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Greedy
 |  |
 | ------- |
