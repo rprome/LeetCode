@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/rprome/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rprome/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/rprome/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Combinatorics
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rprome/LeetCode/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/rprome/LeetCode/tree/master/0221-maximal-square) |
 | [0485-max-consecutive-ones](https://github.com/rprome/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/rprome/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Greedy
 |  |
 | ------- |
